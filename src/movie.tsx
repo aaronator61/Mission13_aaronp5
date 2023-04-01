@@ -5,10 +5,13 @@ const mds = data.MovieData;
 function MovieList() {
   return (
     <>
-      <div>
+      <br></br>
+      <br></br>
+      <div className="d-flex align-items-center justify-content-center">
         <h1>Joel Hilton's Movie Collection</h1>
       </div>
-      <table className="table">
+      <br></br>
+      <table className="table table-dark">
         <thead>
           <tr>
             <th>Title</th>

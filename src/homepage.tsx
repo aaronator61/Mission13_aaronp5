@@ -2,8 +2,8 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 function HomePage() {
   return (
-    <div className="row">
-      <div className="col-md8 offset-md-2">
+    <div className="d-flex align-items-center justify-content-center">
+      <div>
         <h1>Joel Hiltons Favorite Movies</h1>
         <br></br>
         <br></br>

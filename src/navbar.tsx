@@ -5,7 +5,7 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 
 function MyNavbar() {
   return (
-    <Navbar bg="light" expand="lg">
+    <Navbar className="shadow p-3 mb-5 bg-white rounded">
       <Container>
         <Nav className="ml-auto" style={{ gap: '1rem' }}>
           <Link to="/">Home</Link>
