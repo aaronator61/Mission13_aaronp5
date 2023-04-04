@@ -1,3 +1,5 @@
+// Creating the layout for the navigation
+
 import React from 'react';
 import { Outlet } from 'react-router-dom';
 import MyNavbar from './navbar';

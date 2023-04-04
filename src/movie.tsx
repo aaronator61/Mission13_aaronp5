@@ -1,3 +1,5 @@
+//Listing out all of the data.
+
 import data from './MovieData.json';
 
 const mds = data.MovieData;
